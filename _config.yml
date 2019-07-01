@@ -1,12 +1,12 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
+name: github_Angelo.github.io
+url:  https://liuliminga.github.io/github_Angelo.github.io/
 description: Insert tagline here
 
 permalink: /themes/:title/
 
 plugins: [jekyll-paginate]
 
-highlighter: pygments
+highlighter: rouge
 paginate: 20
 
 markdown: rdiscount
