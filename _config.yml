@@ -1,5 +1,5 @@
-name: github_Angelo.github.io
-url:  https://liuliminga.github.io/github_Angelo.github.io/
+name: Angelo
+url:  https://liuliminga.github.io/Angelo/.
 description: Insert tagline here
 
 permalink: /themes/:title/
@@ -9,7 +9,7 @@ plugins: [jekyll-paginate]
 highlighter: rouge
 paginate: 20
 
-markdown: rdiscount
+markdown: Angelo
 rdiscount:
     extensions: ['smart']
 
